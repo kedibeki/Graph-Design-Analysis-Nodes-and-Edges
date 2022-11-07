@@ -6,8 +6,9 @@ Graph Analysis- GRAPH DESIGN SPECIFICATION</h3>
 <h4>This is my personal project to innovate “low-cost infant incubator” for poor families/mothers who lives rural areas and unable to afford to get a proper infant incubator for their new born baby.
 
 <p>
+  
 1. Who is my client? A healthcare/family that cannot to afford an expensive incubator for their
-new born baby.
+   new born baby.
 
 2. What specifications the device should fulfill? From Safety to size and quality.
 
